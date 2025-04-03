@@ -1,0 +1,28 @@
+2025-04-03 15:40:45,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 15:40:45,981 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 15:40:45,996 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-03 15:57:22,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-03 15:57:22,806 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-03 15:57:22,806 - INFO -  * Restarting with stat
+2025-04-03 15:57:25,980 - WARNING -  * Debugger is active!
+2025-04-03 15:57:25,995 - INFO -  * Debugger PIN: 282-253-392
+2025-04-03 15:59:06,269 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:06] "GET / HTTP/1.1" 200 -
+2025-04-03 15:59:06,534 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-03 15:59:06,540 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:06] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-04-03 15:59:06,564 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:06] "GET / HTTP/1.1" 200 -
+2025-04-03 15:59:29,784 - INFO - \U0001f310 25 URL \u062a\u0648\u06cc https://best-istikhara.com/ \u067e\u06cc\u062f\u0627 \u0634\u062f
+2025-04-03 15:59:51,194 - INFO - \U0001f50d \u06a9\u0644\u0645\u0647 \u06a9\u0644\u06cc\u062f\u06cc: \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629
+2025-04-03 15:59:51,194 - INFO - \u2705 \u067e\u06cc\u062f\u0627 \u0634\u062f '\u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629' \u062a\u0648\u06cc https://best-istikhara.com/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d9%86%d9%8a-%d8%a7%d9%84%d8%ad%d9%84%d9%85-%d8%a8%d8%a7%d9%84%d8%a3%d8%a8-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d8%9f/
+2025-04-03 15:59:51,194 - INFO - \U0001f50d \u06a9\u0644\u0645\u0647 \u06a9\u0644\u06cc\u062f\u06cc: \u062f\u0639\u0627\u0621 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629
+2025-04-03 15:59:51,200 - INFO - \U0001f50d \u06a9\u0644\u0645\u0647 \u06a9\u0644\u06cc\u062f\u06cc: \u0638\u0639\u0627\u0621 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629
+2025-04-03 15:59:51,204 - INFO - \U0001f50d \u06a9\u0644\u0645\u0647 \u06a9\u0644\u06cc\u062f\u06cc: \u0635\u0644\u0627\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629
+2025-04-03 15:59:51,206 - INFO - \u2705 \u067e\u06cc\u062f\u0627 \u0634\u062f '\u0635\u0644\u0627\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629' \u062a\u0648\u06cc https://best-istikhara.com/istikhara-service/
+2025-04-03 15:59:51,206 - INFO - \U0001f50d \u06a9\u0644\u0645\u0647 \u06a9\u0644\u06cc\u062f\u06cc: \u0643\u064a\u0641\u064a\u0629 \u0635\u0644\u0627\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629
+2025-04-03 15:59:51,209 - INFO - \U0001f50d \u06a9\u0644\u0645\u0647 \u06a9\u0644\u06cc\u062f\u06cc: \u062f\u0639\u0627\u0621 \u0635\u0644\u0627\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u0627\u0631\u0629
+2025-04-03 15:59:51,311 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:51] "POST / HTTP/1.1" 200 -
+2025-04-03 15:59:51,526 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:51] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-04-03 15:59:51,551 - INFO - 127.0.0.1 - - [03/Apr/2025 15:59:51] "GET / HTTP/1.1" 200 -
+2025-04-03 16:03:31,957 - INFO -  * Detected change in 'G:\\flask_web\\app.py', reloading
+2025-04-03 16:03:32,203 - INFO -  * Restarting with stat
